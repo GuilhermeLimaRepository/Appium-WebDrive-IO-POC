@@ -1,0 +1,36 @@
+{
+  "name": "mobile-qa-live-coding-challenge",
+  "version": "1.0.0",
+  "description": "As mobile testing involves lots of tooling, we split this challenge in 2 parts. The 1st is a \"takehome\" part where you are expected to simply configure your work environment, and be ready for the live assignment where you be asked to write a simple Android automated test with the app that will be provided at the time of the test.",
+  "type": "module",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "test": "wdio run wdio.conf.ts",
+    "appium": "appium"
+  },
+  
+  "devDependencies": {
+    "@types/node": "^22.15.17",
+    "@wdio/appium-service": "^9.13.0",
+    "@wdio/cli": "^9.13.0",
+    "@wdio/local-runner": "^9.13.0",
+    "@wdio/mocha-framework": "^9.13.0",
+    "@wdio/spec-reporter": "^9.13.0",
+    "@wdio/types": "^9.12.6",
+    "appium": "^2.18.0",
+    "appium-uiautomator2-driver": "^4.2.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeLimaRepository/antonio-qa-mobile-interview.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GuilhermeLimaRepository/antonio-qa-mobile-interview/issues"
+  },
+  "homepage": "https://github.com/GuilhermeLimaRepository/antonio-qa-mobile-interview#readme"
+}
