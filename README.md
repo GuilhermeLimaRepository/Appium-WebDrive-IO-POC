@@ -80,6 +80,6 @@ describe('Product Registration App', () => {
 
 ## 👤 Author
 
-**Tony** – Lead QA Engineer  
+**Tony** – Principal QA Engineer  
 Brazilian Time Zone 🌍  
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+[https://www.linkedin.com/in/antonio-lima-qalizando/]() | [YouTube](https://www.youtube.com/@qalizando).
